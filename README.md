@@ -1,2 +1,2 @@
 # merge-branch-script
-Windows script to merge from branch A to branch B
+Windows script to automate merge branch B back to branch A
